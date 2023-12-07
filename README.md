@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to my GitHub profile page 👋
 
-<!--
-**CichyJohnny/CichyJohnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Student at Poznan University of Technology
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning - Machine Learning, FastApi, SQL
+- 💻 Currently my main technology is - Python
+- 🤔 Fields I want to develop in - AI, WebDev
+- 📫 How to reach me - just mail me
+- 🧠 Interests:
+  - 🎬 Movies
+  - 📚 Books (mainly belles lettres)
+  - 🎮 Games
+  - 🧪 Science:
+    - 🌌 Physics
+    - 🧠 Philosophy
+    - 🧑‍🤝‍🧑 Sociology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Don't forget to check links in my bio
