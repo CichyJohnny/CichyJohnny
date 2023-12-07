@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile page 👋
+# Welcome to my GitHub profile page 👋
 
 - 🎓 Student at Poznan University of Technology
 
@@ -15,4 +15,4 @@
     - 🧠 Philosophy
     - 🧑‍🤝‍🧑 Sociology
 
-# Don't forget to check links in my bio
+## Don't forget to check links in my bio
