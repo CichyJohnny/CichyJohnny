@@ -8,7 +8,7 @@
 - 📫 How to reach me - just mail me
 - 🧠 Interests:
   - 🎬 Movies
-  - 📚 Books (mainly belles lettres)
+  - 📚 Books
   - 🎮 Games
   - 🧪 Science:
     - 🌌 Physics
