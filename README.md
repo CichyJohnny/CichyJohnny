@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile page 👋
 
-- 🎓 Student at Poznan University of Technology
+- 🎓 Computer Science student at Poznan University of Technology
 
-- 🌱 I’m currently learning - Machine Learning, C++, SFML, SQL
+- 🌱 I’m currently learning - Machine Learning, C++, C, SFML, SQL
 - 💻 Currently my main technology is - Python
 - 🤔 Fields I want to develop in - AI, WebDev
 - 📫 How to reach me - just mail me
