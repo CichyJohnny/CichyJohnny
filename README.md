@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science student at Poznan University of Technology
 
-- 🌱 I’m currently learning - Machine Learning, Gen Ai, SQL, C++, Java, WebDev
+- 🌱 I’m currently learning - Machine Learning, Gen Ai, SQL, C++, Java, Front-end, Back-end, servers
 - 💻 Currently my main technology is - Python
 - 🤔 Fields I want to develop in - ML/AI, WebDev
 - 📫 How to reach me - just mail me
