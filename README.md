@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile page 👋
 
-- 🏢 Software Engineer in Allegro
+- 🏢 Software Engineer at Allegro
 - 🎓 Computer Science student at Poznan University of Technology
 
 - 🌱 I’m currently learning - OAuth2, GraphQL, servers architecture, gen AI
